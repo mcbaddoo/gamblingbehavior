@@ -1,2 +1,2 @@
 # bondyieldvolatility
-Using statistics and advanced modeling to determine the behavior of US bond yields.
+Using statistics and advanced modeling to study the volatile behavior of US government bond yields.
