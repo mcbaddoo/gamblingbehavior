@@ -1,2 +1,2 @@
 # bondyieldvolatility
-Using statistics and advanced modeling to study the volatile behavior of US government bond yields.
+Using cluster analysis to define relevant groups within a dataset of over 4,000 Bustabit users and to identify persistent gambling patterns and behaviors.
