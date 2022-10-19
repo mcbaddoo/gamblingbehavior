@@ -1,1 +1,2 @@
-# gamblingbehavior
+Determined relevant groups of users within an online Bitcoin gambling game to identify persistent betting patterns and behaviors by scaling data, executing k-means clustering analysis, graphing a Parallel Coordinate Plot and extracting principal components.
+  - Pinpointed five profiles of betting users to inform consumer behavior (casual players with conservative bets, highly active and strategic users, ambitious and active users, casual but extremely ambitious users, conservative users with high bets).
